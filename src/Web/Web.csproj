@@ -5,6 +5,11 @@
     <RootNamespace>Microsoft.eShopWeb.Web</RootNamespace>
     <UserSecretsId>aspnet-Web2-1FA3F72E-E7E3-4360-9E49-1CCCD7FE85F7</UserSecretsId>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <PackageId>EShopWeb</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>MS People</Authors>
+    <Company>Qualysoft</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 
